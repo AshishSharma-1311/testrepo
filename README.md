@@ -1,4 +1,4 @@
 # testrepo
 
-for cloning use : git clone https://username@github.com/username/repo_name
+for cloning private repo use : git clone https://username@github.com/username/repo_name
 
